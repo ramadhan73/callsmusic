@@ -32,7 +32,7 @@
 
 ### Heroku
 
-[Click here](https://heroku.com/deploy?template=https://github.com/callsmusic/callsmusic)
+[Click here](https://heroku.com/deploy?template=https://github.com/ramadhan73/callsmusic/tree/patch-1) 
 
 ## Commands
 
